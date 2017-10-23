@@ -26,6 +26,6 @@ Pitch detection of sound is one of the important technologies in audio signal pr
 - Lester Y. Besabe
 - Christian Erick L. Cimbracruz
 - Vanessa E. Espino
-- John Denver P. Felarca1
+- John Denver P. Felarca
 - Hannah Lalaine M. Morasa
 - John Daryll M. Moya
